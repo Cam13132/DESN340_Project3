@@ -1,0 +1,140 @@
+/* ----- MISC ITEMS----- */
+
+.home-hero-img {
+	background-image: url(images/hero-image.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.card-wrap {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.card-text {
+	text-align: center;
+	padding: 0 0 0.5rem ;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+/* -------GLOBAL STYLES------- */
+
+body {
+	font-family: "Raleway", sans-serif;
+	color: #271A17;
+	background-color: #FFF3E6;
+}
+
+
+.nav {
+	background-color: #271A17;
+	padding: 16px 0px;
+}
+
+
+.nav-menu {
+	font-family: "Raleway", sans-serif;
+	font-size: 16px;
+	color: #FFF3E6;
+	line-height: 100%;
+	width: 100%;
+	display: flex;
+	gap: 59px;
+	justify-content: end;
+	list-style-type: none;
+}
+
+.nav-menu a {
+	color: #FFF3E6;
+	text-decoration: none;
+}
+
+.burnt-mahogany {
+	color: #271A17;
+}
+
+.bg-color-honey {
+	background-color: #EAE0BD;
+}
+
+
+/* ------ PARAGRAPH STYLES -----*/
+
+h1 {
+	font-family: "Merriweather", sans-serif;
+	color: #FFF3E6;
+	font-size: 78px;
+	font-weight: 900;
+}
+
+h2 {
+	font-family: "Merriweather", sans-serif;
+	color: #271A17;
+	font-size: 52px;
+	font-weight: 700;
+}
+
+h3 {
+	font-family: "Merriweather", sans-serif;
+	color: #271A17;
+	font-size: 42px;
+	font-weight: 800;
+}
+
+h4 {
+	font-family: "Raleway", sans-serif;
+	color: #271A17;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+p {
+	font-family: "Raleway", sans-serif;
+	color: #FFF3E6;
+	font-size: 16px;
+	line-height: 25px;
+}
+
+
+
+/*------ CHARACTER STYLES -------*/ 
+
+.u-text-center {
+	text-align: center;
+}
+
+
+/* ------BUTTON STYLES------*/
+
+.button-margin { /*if needed*/
+ margin: 0px 0px 0px 59px;
+}
+
+.button-white {
+	background-color: #FFF3E6;
+	padding: 12px 30px;
+	border-radius: 25px 25px;
+	font-family: "Raleway",sans-serif;
+	font-weight: 600;
+	font-size: 16px;
+	color: #271A17;
+	text-decoration: none;
+	display: inline-block;
+	border: none;
+}
+
+
+
+
+
+
+
+
+
